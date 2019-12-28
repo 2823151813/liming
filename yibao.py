@@ -4,4 +4,4 @@ import turtle
 t = turtle.Pen()
 for x in range(250):
     t.forward(x)
-    t.left(100)
+    t.left(10)
